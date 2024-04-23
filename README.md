@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hello World! I'm Paul 👋
 
-<!--
-**pformb/pformb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm someone who's always eager to learn and grow, constantly striving for improvement. When it comes to writing code, I take great care to ensure it's clean ✨, efficient ⚙️, and well-organized 📊. It's not just about getting the job done; it's about crafting something that reflects my commitment to quality and attention to detail.
 
-Here are some ideas to get you started:
+- 📝 Navigating Pair Programming for Introverts: [My Blog Post](https://medium.com/@paulmjformby/navigating-pair-programming-for-introverts-finding-harmony-in-collaboration-ab9046fca225)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Wild Link](https://github.com/pformb/wild-link)
+
+## 
+
+### 🌍 Background: Sales, Business, Marketing
+
+### 🌱 Life: Commercial Truck Sales, Web Development 💻
+
+##
+
+### 🛠 Tech Stack:
+
+Frontend Development: React, Material-UI, jQuery, Leaflet.js, Bootstrap, SASS
+
+Backend Development: Node.js, Express.js, AJAX, EJS, Rails
+
+Version Control: Git, GitHub
+
+Testing: Cypress, Jest, Mocha, Chai, RSpec
+
+Databases: PostgreSQL  
+
+Cloud Hosting Services: AWS, IBM Cloud, Railway
+
+Others: Visual Studio Code
+##
+
+### ⚙️  Language Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pformb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Stats: 
+
+![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pformb&show_icons=true&theme=radical) 
+
