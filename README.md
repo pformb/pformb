@@ -8,9 +8,9 @@ I'm someone who's always eager to learn and grow, constantly striving for improv
 
 ## 
 
-### 🌍 Background: Sales, Business, Marketing
+### 💼 Work Background: Sales, Business, Marketing.
 
-### 🌱 Life: Commercial Truck Sales, Web Development 💻
+### 🗺️ Life Interests: Snowboarding, Web Tech, Running, Travel. 
 
 ##
 
