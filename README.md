@@ -16,7 +16,7 @@ I'm someone who's always eager to learn and grow, constantly striving for improv
 
 ### 🛠 Tech Stack:
 
-Frontend Development: React, Material-UI, jQuery, Leaflet.js, Bootstrap, SASS
+Frontend Development: React, Material-UI, jQuery, Bootstrap
 
 Backend Development: Node.js, Express.js, AJAX, EJS, Rails
 
@@ -26,7 +26,7 @@ Testing: Cypress, Jest, Mocha, Chai, RSpec
 
 Databases: PostgreSQL  
 
-Cloud Hosting Services: AWS, IBM Cloud, Railway
+Cloud Hosting Services: AWS, Railway
 
 Others: Visual Studio Code
 ##
